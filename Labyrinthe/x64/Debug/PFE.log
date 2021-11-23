@@ -1,0 +1,11 @@
+﻿  OpenGL.cpp
+C:\Users\Alex\source\repos\PFE\PFE\modelisation\OpenGL.cpp(157,150): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Alex\source\repos\PFE\PFE\modelisation\OpenGL.cpp(159,147): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Alex\source\repos\PFE\PFE\modelisation\OpenGL.cpp(194,111): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Alex\source\repos\PFE\PFE\modelisation\OpenGL.cpp(362,22): warning C4244: 'argument' : conversion de 'int' en 'GLfloat', perte possible de données
+C:\Users\Alex\source\repos\PFE\PFE\modelisation\OpenGL.cpp(362,19): warning C4244: 'argument' : conversion de 'int' en 'GLfloat', perte possible de données
+C:\Users\Alex\source\repos\PFE\PFE\modelisation\OpenGL.cpp(362,16): warning C4244: 'argument' : conversion de 'int' en 'GLfloat', perte possible de données
+C:\Users\Alex\source\repos\PFE\PFE\modelisation\OpenGL.cpp(523,48): warning C4305: 'initialisation' : troncation de 'double' à 'GLfloat'
+  CSVWriter.cpp
+  Génération de code en cours...
+  PFE.vcxproj -> C:\Users\Alex\source\repos\PFE\x64\Debug\PFE.exe

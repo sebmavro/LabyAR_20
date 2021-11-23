@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cerveau et Labyrinthe</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="connect">Connecter</string>
+    <string name="status">Etat de la connection:</string>
+    <string name="disconnect">Déconnecter</string>
+    <string name="refresh">Recharger</string>
+    <string name="tv_default_eeg">0000.00</string>
+    <string name="eeg">Données EEG:</string>
+    <string name="accel">Accelerometer Data:</string>
+    <string name="version">Version:</string>
+    <string name="undefined">Inconnu</string>
+    <string name="artifacts">Blinks, Jaw: </string>
+    <string name="msg_count">Numero message, Taille: </string>
+    <string name="pause">Pause/Play</string>
+    <string name="drop">Enlever</string>
+    <string name="muse_elem">Relatif à Alpha :</string>
+
+    <string name="permission_dialog_title">Muse requiert votre permission</string>
+    <string name="permission_dialog_description">Muse requiert certaines permissions pour fonctionner correctement. Veuillez les accepter à la prochaine page.</string>
+    <string name="permission_dialog_understand">OK</string>
+
+    <string name="museconnection_title">Choisissez votre appareil muse!</string>
+    <string name="tv_muse_connection_title"> Muse: </string>
+    <string name="tv_muse_connected"> Connecté </string>
+
+    <string name="record_data"> Commencer </string>
+    <string name="name"> Nom </string>
+    <string name="enter_name"> Veuillez saisir un nom! </string>
+
+    <string name="start_rec"> Commencer l'enregistrement  </string>
+    <string name="stop_rec"> Arreter l'enregistrement </string>
+
+    <string name="tv_default_hsi"> 0 </string>
+
+    <string name="graph_title"> Graphe de méditation </string>
+
+    <!--<string name="tv_feedback_correct"> Correct! </string>-->
+    <!--<string name="tv_feedback_wrong"> Wrong! </string>-->
+    <!--<string name="tv_feedback_timeout"> Timeout! </string>-->
+
+    <!--<string name="dialog_arith_training_title">Instruction for Data Recording </string>-->
+    <!--<string name="dialog_arith_training_instruction">"Sequence of Events\n1. Arithmetic Training (2 Minutes)\n2. Guided Meditation (10 Minutes) \n3. Arithmetic Test (2 Minutes)\n\nAdjust your headband until all EEG are 1!\nMuse headband: %1$s\nEEG1: %2$d \nEEG2: %3$d \nEEG3: %4$d \nEEG4: %5$d\n\nArithmetic training allows you to familiarise with the questions for the upcoming test!"</string>-->
+    <!--<string name="dialog_arith_training_btn_pos"> Begin Arithmetic Training! </string>-->
+
+    <!--<string name="dialog_break_title"> Break </string>-->
+    <!--<string name="dialog_break_msg"> Arithmetic Training has ended. Next: Guided Meditation, put on your earpiece and listen to the guided meditation track.  </string>-->
+    <!--<string name="dialog_break_btn_positive"> Begin Guided Meditation </string>-->
+
+    <!--<string name="dialog_guided_meditation_title"> Guided Meditation Completed </string>-->
+    <!--<string name="dialog_guided_meditation_msg"> You have completed the guided meditation.\nNext: Arithmetic test. The nature of the arithmetic test requires participants to get scores above 75% for the results to be used. </string>-->
+    <!--<string name="dialog_guided_meditation_btn_pos"> Continue to Arithmetic Test </string>-->
+
+    <!--<string name="dialog_arith_complete_title"> The Test is now complete! </string>-->
+    <!--<string name="dialog_arith_complete_message"> You have completed the data recording. Thank you! Tap on Finish to exit!! </string>-->
+    <!--<string name="dialog_arith_complete_btn_pos"> Finish! </string>-->
+
+    <!--<string name="tv_activity_training_instr"> Current Task: Arithmetic Training </string>-->
+    <!--<string name="tv_activity_guided_meditation_instr"> Current Task: Guided Meditation </string>-->
+    <!--<string name="tv_activity_test_instr"> Current Task: Arithmetic Test </string>-->
+
+    <!--<string name="tv_meditation_citation"> Meditation Track: \nThe Honest Guys - Meditation - Relaxation </string>-->
+
+    <string name="tv_legend"> Relaxé:Vert , Emotif:Magenta </string>
+    <string name="ip_text">0.0.0.0</string>
+
+
+</resources>
